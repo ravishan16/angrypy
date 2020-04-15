@@ -1,0 +1,32 @@
+{
+  "name": "angrypy",
+  "displayName": "AngryPy",
+  "description": "Angular & Python must have extensions",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "agiove.clarity-vscode",
+    "johnpapa.Angular2",
+    "infinity1207.angular2-switcher",
+    "nrwl.angular-console",
+    "rbbit.typescript-hero",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "dbaeumer.vscode-eslint",
+    "brainfit.vscode-importmagic",
+    "ms-python.python",
+    "esbenp.prettier-vscode",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "mikestead.dotenv",
+    "bierner.github-markdown-preview",
+    "formulahendry.terminal",
+    "ms-azuretools.vscode-docker",
+    "CoenraadS.bracket-pair-colorizer"
+  ]
+}
