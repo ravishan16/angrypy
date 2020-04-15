@@ -1,5 +1,7 @@
 # Essential extension pack for Angular + Python development
 
+## [Install](https://marketplace.visualstudio.com/items?itemName=ravishan16.angrypy)
+
 ## Extension List
 
 ## Angular

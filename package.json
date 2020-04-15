@@ -3,8 +3,13 @@
   "displayName": "AngryPy",
   "license": "SEE LICENSE IN LICENSE file",
   "description": "Angular & Python must have extensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ravishan16",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.44.0"
   },
