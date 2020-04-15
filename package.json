@@ -3,7 +3,7 @@
   "displayName": "AngryPy",
   "license": "SEE LICENSE IN LICENSE file",
   "description": "Angular & Python must have extensions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "ravishan16",
   "icon": "images/icon.png",
   "galleryBanner": {
@@ -11,7 +11,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.44.0"
+    "vscode": "^1.40.0"
   },
   "homepage": "https://github.com/ravishan16/angrypy/blob/master/README.md",
   "bugs": {
