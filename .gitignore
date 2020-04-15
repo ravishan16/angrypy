@@ -1,0 +1,5 @@
+.vscode
+.env
+.vscode/**
+.vscode-test/**
+.vsix
