@@ -1,10 +1,21 @@
 {
   "name": "angrypy",
   "displayName": "AngryPy",
+  "license": "SEE LICENSE IN LICENSE file",
   "description": "Angular & Python must have extensions",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "ravishan16",
   "engines": {
     "vscode": "^1.44.0"
+  },
+  "homepage": "https://github.com/ravishan16/angrypy/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/ravishan16/angrypy/issues",
+    "email": "ravi_siva@live.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ravishan16/angrypy.git"
   },
   "categories": [
     "Extension Packs"
