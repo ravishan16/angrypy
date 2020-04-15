@@ -1,6 +1,6 @@
 # Essential extension pack for Angular + Python development
 
-## [Install](vscode:extension/ravishan16.angrypy) | [Download](https://marketplace.visualstudio.com/items?itemName=ravishan16.angrypy)
+## [Download](https://marketplace.visualstudio.com/items?itemName=ravishan16.angrypy)
 
 ## Extension List
 
